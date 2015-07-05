@@ -74,3 +74,8 @@
   <strong>Email: </strong>
   <a href="mailto:info@charleston.co.tz">info@charleston.co.tz</a><br/>
 </div>
+
+
+
+ 4th Floor Arnold Plaza<br/>
+  Woodvale Grove, Westlands<br/>
